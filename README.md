@@ -8,7 +8,7 @@ Welcome to my GitHub repository for the tasks assigned during my one-month virtu
 
 - **Description**: This task involved utilizing Long Short-Term Memory (LSTM) algorithms to predict stock prices.
 - **Files**:
-  - [`Stock_Price_Prediction_Using_LSTM.ipynb`](https://github.com/Ashutosh-Singh-Thakur/Bharat-Intern-Internship/blob/main/Stock-Prediction/Stock_Prediction_Using_LSTM.ipynb): Jupyter Notebook containing the code for stock prediction.
+  - [`Stock_Price_Prediction_Using_LSTM.ipynb`](https://github.com/Ashutosh-Singh-Thakur/Bharat-Intern-Internship/blob/main/Stock-Prediction/Stock_Price_Prediction_Using_LSTM.ipynb): Jupyter Notebook containing the code for stock prediction.
 
 ### 2. Titanic Classification
 
